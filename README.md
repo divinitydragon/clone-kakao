@@ -1,4 +1,4 @@
-# KAKO clone
+# KAKAO(UI) clone
 
 hello
 
