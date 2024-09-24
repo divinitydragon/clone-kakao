@@ -1,5 +1,3 @@
 # KAKAO(UI) clone
 
-hello
-
-s+sdsss
+hello this is my html and css practice file
